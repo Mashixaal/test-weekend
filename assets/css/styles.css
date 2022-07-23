@@ -1,0 +1,11 @@
+.bg.beige {
+    background-color: bisque;
+}
+
+.text-black {
+    color: black;
+}
+
+.grid {
+    display: grid;
+}
