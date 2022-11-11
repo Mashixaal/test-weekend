@@ -9,3 +9,7 @@
 .grid {
     display: grid;
 }
+
+.flex {
+    justify-content: start;
+}
